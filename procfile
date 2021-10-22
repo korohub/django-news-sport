@@ -1,0 +1,1 @@
+web: gunicorn foot_news.wsgi --log-file -
